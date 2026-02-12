@@ -4,7 +4,7 @@ Navigating mathematics research papers often leads to a "citation rabbit hole." 
 Math-RAG is an intelligent Retrieval-Augmented Generation solution designed to make the citation network interactive. By indexing both the primary paper and its references, it provides immediate access to the technical details you need, exactly when you need them.
 
 ## Instructions to Use:
-In the python notebook to the following changes:
+In the python notebook do the following changes:
 Change the EMAIL variable to your email.
 Change the PROJECT_DIR variable to the desired directory. 
 QUERY variable to the query you want to ask. 
